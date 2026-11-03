@@ -1,0 +1,13 @@
+usn,name,dept,semester,email,quota
+1XX23CS002,Aarav Kumar,CSE,5,aarav@example.com,REGULAR
+1XX23CS003,Diya Rao,CSE,5,diya@example.com,REGULAR
+1XX23IS001,Rohan Shetty,ISE,5,rohan@example.com,REGULAR
+1XX23IS002,Meera Nair,ISE,5,meera@example.com,REGULAR
+1XX23AI001,Kiran Gowda,AIML,5,kiran@example.com,REGULAR
+1XX23AI002,Sneha Patil,AIML,5,sneha@example.com,SNQ
+1XX23EC001,Vikram Hegde,EC,5,vikram@example.com,REGULAR
+1XX23EC002,Anjali Bhat,EC,5,anjali@example.com,DIPLOMA
+1XX23AD001,Pooja Reddy,AIDS,5,pooja@example.com,REGULAR
+1XX23AD002,Arjun Das,AIDS,5,arjun@example.com,REGULAR
+1XX23CS002,Duplicate Row,CSE,5,dup@example.com,REGULAR
+1XX23ME001,Wrong Branch,MECH,5,x@example.com,REGULAR
